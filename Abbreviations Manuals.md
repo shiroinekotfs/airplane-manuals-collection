@@ -1,12 +1,12 @@
 # Abbreviations
 
-Abbreviations make the naming system in general shorter and easier to remember. It also plays an necessary role in making the unique constant between aircraft manufacturers.
+Abbreviations make the naming system in general shorter and easier to remember. It also plays a necessary role in making the unique constant between aircraft manufacturers.
 
-> Note that these are just the abbreviations of manuals, not the full list of abbreviations in the whole aviation industry. This only help you to identity the manual type and its case usages.
+> Note that these are just the abbreviations of manuals, not the full list of abbreviations in the whole aviation industry. This only helps you to identify the manual type and its case usage.
 
 ## General
 
-In general, these abbreviations are used globally to define certain manuals, with the same types of function in training and flying in real-life.
+In general, these abbreviations are used globally to define certain manuals, with the same types of functions in training and flying in real life.
 
 | Abbreviations | Type of manual | Full Name |
 | -- | -- | -- |
