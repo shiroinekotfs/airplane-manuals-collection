@@ -1,4 +1,4 @@
-![image](https://github.com/shiroinekotfs/my-airplane-manuals/assets/115929530/fdc48694-2a2e-4b8c-a2f4-69f6a58bfa2e)![Header](https://github.com/shiroinekotfs/my-airplane-manuals/assets/115929530/81d80b91-f389-4e53-afc3-9b3b92e34db2)
+![Header](https://github.com/shiroinekotfs/my-airplane-manuals/assets/115929530/81d80b91-f389-4e53-afc3-9b3b92e34db2)
 
 > ⚠️
 > * This repo may contain manuals that are **not verified in real-life uses**. Please **reconsider if you want to use it on a real flight**.
