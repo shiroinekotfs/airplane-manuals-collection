@@ -16,7 +16,7 @@ Welcome to the Airplane Manual Collection. In here, you can view your airplane m
 
 ## Getting started
 
-You may need to understand the abbreviations of the manual names and their type (the purpose in general). Once done, you can view and even do a quick search in case of training and practice in a simulator.
+You may need to understand the [abbreviations of the manual names and their type (the purpose in general)](https://github.com/shiroinekotfs/airplane-manuals-collection/blob/master/Abbreviations%20Manuals.md). Once done, you can view and even do a quick search in case of training and practice in a simulator.
 
 ### Download manual separately
 
