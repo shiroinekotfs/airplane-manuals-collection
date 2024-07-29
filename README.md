@@ -1,9 +1,7 @@
 ![Header](https://github.com/shiroinekotfs/airplane-manuals-collection/assets/115929530/81d80b91-f389-4e53-afc3-9b3b92e34db2)
 
 > ⚠️
-> * This repo may contain manuals that are **not verified in real-life uses**. Please **reconsider if you want to use it on a real flight**.
-> 
-> *Tip*: If you don't see the manufacturer logo, or the document flags itself as **"DO NOT USE INFLIGHT"** or as same as this, please note that it may be for the training environment only.
+> * This repo may contain manuals that are **not verified in real-life uses**. Please **reconsider if you want to use it on a real flight**. *Tip*: If you don't see the manufacturer logo, or the document flags itself as **"DO NOT USE INFLIGHT"** or as same as this, please note that it may be for the training environment only.
 > * For reporting issues, you can go to [Discussions](https://github.com/shiroinekotfs/airplane-manuals-collection/discussions) and create a new  thread in there.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shiroinekotfs/airplane-manuals-collection)
