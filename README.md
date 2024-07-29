@@ -5,14 +5,13 @@
 > 
 > *Tip*: If you don't see the manufacturer logo, or the document flags itself as **"DO NOT USE INFLIGHT"** or as same as this, please note that it may be for the training environment only.
 > * For reporting issues, you can go to [Discussions](https://github.com/shiroinekotfs/airplane-manuals-collection/discussions) and create a new  thread in there.
-> * If you want to use training applications (FMGS/CBT), you can download them in breach [`training_program`](https://github.com/shiroinekotfs/airplane-manuals-collection/tree/training_program)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shiroinekotfs/airplane-manuals-collection)
 ![GitHub Repo stars](https://img.shields.io/github/stars/shiroinekotfs/airplane-manuals-collection)
 
 # Airplane Manual Collection
 
-Welcome to the Airplane Manual Collection. In here, you can view your airplane manuals from official manufacturers, such as Boeing and Airbus, free of charge.
+Welcome to the Airplane Manual Collection. You can view your airplane manuals from official manufacturers, such as Boeing and Airbus, free of charge.
 
 ## Getting started
 
